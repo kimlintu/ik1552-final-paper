@@ -1,0 +1,1 @@
+void create_message(char *message, int length);
